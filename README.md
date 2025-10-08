@@ -22,12 +22,12 @@ You only need **Python** installed on your system.
 
 ### Installation and Running
 
-1.  Save the provided code as a Python file (e.g., `guess_game.py`).
+1.  Save the provided code as a Python file (e.g., `main.py`).
 2.  Navigate to the directory where you saved the file.
 3.  Run the script from your terminal:
 
     ```bash
-    python guess_game.py
+    python main.py
     ```
 
 ---
